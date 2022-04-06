@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to List.me
+          Welcome to Lstn.me
         </h1>
       </main>
 
